@@ -1,2 +1,2 @@
-# python_tasks_urfu
+# python_urfu
 Repository for Python test tasks
