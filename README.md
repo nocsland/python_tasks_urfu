@@ -1,2 +1,2 @@
 # python_urfu
-Repository for Python test tasks
+Репозиторий для задач в рамках магистратуры "Инженерия машинного обучения" в УрФУ
